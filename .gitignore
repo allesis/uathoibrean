@@ -14,3 +14,5 @@ pom.xml.asc
 .cpcache/
 .direnv/bin
 .direnv
+.clj-kondo/.cache/v1
+.lsp/.cache
